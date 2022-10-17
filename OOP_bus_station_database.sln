@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_bus_station_database", "OOP_bus_station_database\OOP_bus_station_database.csproj", "{0FF3D861-D8EC-42BA-B235-7B7CD9908326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF3D861-D8EC-42BA-B235-7B7CD9908326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF3D861-D8EC-42BA-B235-7B7CD9908326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF3D861-D8EC-42BA-B235-7B7CD9908326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF3D861-D8EC-42BA-B235-7B7CD9908326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {485268B5-47AF-44B7-ACEC-0463D3D3CD18}
+	EndGlobalSection
+EndGlobal
